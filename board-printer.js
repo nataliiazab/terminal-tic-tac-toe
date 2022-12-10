@@ -16,6 +16,7 @@
     Test your function by calling it with an example tic-tac-toe board.
 */
 export function printBoard(board) {
+  hi;
 }
 
 /*
@@ -23,5 +24,4 @@ export function printBoard(board) {
         - return true if there are no moves left to make (there are no more '_' values)
         - return false if there are still moves that can be made
 */
-export function checkIfNoMovesLeft(board) {
-}
+export function checkIfNoMovesLeft(board) {}
